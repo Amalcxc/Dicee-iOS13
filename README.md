@@ -1,4 +1,4 @@
-![App Brewery Banner](image.jpeg)
+![App Brewery Banner](image.png)
 
 # Dicee
 
